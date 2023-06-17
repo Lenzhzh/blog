@@ -38,6 +38,10 @@ menu:
         name: tags
         theme: solid
         link: /tags
+    Logs:
+        name: global
+        theme: soild
+        link: /logs
 
 # Side info card
 card:
