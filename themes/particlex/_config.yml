@@ -38,9 +38,11 @@ menu:
         name: tags
         theme: solid
         link: /tags
+
+    
     Logs:
-        name: fa-pen-to-square
-        theme: soild
+        name: pen-to-square
+        theme: solid
         link: /logs
 
 # Side info card
