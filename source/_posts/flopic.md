@@ -18,5 +18,8 @@ document.write('<img src="/./images/Flopic/flo'+ rand + '.jpg" />');
 
 ---
 ## 日志：
+#### update at 13:46,2023-6-17 ：
+    1.update flopic to 92
+
 #### update at 17:58,2023-6-15 ：
-update flopic to 90
+    1.update flopic to 90
