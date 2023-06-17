@@ -39,7 +39,7 @@ menu:
         theme: solid
         link: /tags
     Logs:
-        name: global
+        name: pen-to-square
         theme: soild
         link: /logs
 

@@ -18,13 +18,6 @@ var rand = Math.floor(Math.random()*4);
 document.write('<img src="/./images/normal/2cy'+ rand + '.jpg" />');
 </Script>
 
----
-## 日志：
-#### update at 16:38,2023-06-16:
-1.add 3D_PO
-
-#### update at 20:46,2023-6-15：
-1.update about
 
 
 
