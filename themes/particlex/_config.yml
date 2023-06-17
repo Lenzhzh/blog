@@ -39,9 +39,9 @@ menu:
         theme: solid
         link: /tags
 
-    
+
     Logs:
-        name: pen-to-square
+        name: gears
         theme: solid
         link: /logs
 
