@@ -43,11 +43,11 @@ menu:
 card:
     enable: true
     description: |
-        Description
-        YSZNMSL
+        个人简介：
+        $2^4$岁，事高中牲
     iconLinks:
     friendLinks:
-        Argvchs: https://argvchs.github.io
+        Argvchs: https://truthluming.top
 
 # Footer info
 footer:
