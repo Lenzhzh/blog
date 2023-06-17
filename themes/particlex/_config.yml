@@ -2,7 +2,11 @@
 # https://github.com/theme-particlex/hexo-theme-particlex
 
 # Avatar image
-avatar: /images/avatar.jpg
+avatar: 
+    - /images/avatar1.jpg
+    - /images/avatar2.jpg
+    - /images/avatar3.jpg
+    - /images/avatar4.jpg
 
 # Favicon
 favicon: /images/favicon.png
@@ -11,9 +15,7 @@ favicon: /images/favicon.png
 background:
     - /images/background1.jpg
     - /images/background2.jpg
-    - /images/background3.jpg
-    - /images/background4.jpg
-    - /images/background5.jpg
+
 
 # ParticleX theme icon is adopts the Font Awesome 6
 # https://fontawesome.com

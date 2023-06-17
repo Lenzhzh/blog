@@ -971,7 +971,7 @@ ol li {
 .floo1 {
     position: fixed;
     animation: loop1 10s linear infinite;
-    background: url(/./images/normal/flo_head.jpg);
+
     right: 80px;
     bottom: 80px;
     width: 200px;
@@ -983,36 +983,36 @@ ol li {
 .floo2 {
     position: fixed;
     animation: loop2 10s linear infinite;
-    background: url(/./images/normal/flo_head.jpg);
+
     right: 80px;
     bottom: 80px;
     width: 200px;
     height: 200px;
     border-radius: 38% 62% 63% 37%/41% 44% 56% 59%;
     opacity: 0.3;
-    transform: rotate(30deg);
+    transform: rotate(60deg);
 }
 .floo3 {
     position: fixed;
     animation: loop3 10s linear infinite;
-    background: url(/./images/normal/flo_head.jpg);
+
     right: 80px;
     bottom: 80px;
     width: 200px;
     height: 200px;
     border-radius: 38% 62% 63% 37%/41% 44% 56% 59%;
     opacity: 0.3;
-    transform: rotate(30deg);
+    transform: rotate(90deg);
 }
 .floo4 {
     position: fixed;
     animation: loop4 10s linear infinite;
-    background: url(/./images/normal/flo_head.jpg);
+
     right: 80px;
     bottom: 80px;
     width: 200px;
     height: 200px;
     border-radius: 38% 62% 63% 37%/41% 44% 56% 59%;
     opacity: 0.3;
-    transform: rotate(30deg);
+    transform: rotate(120deg);
 }
