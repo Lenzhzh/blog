@@ -995,7 +995,6 @@ ol li {
 .floo3 {
     position: fixed;
     animation: loop3 10s linear infinite;
-
     right: 80px;
     bottom: 80px;
     width: 200px;
@@ -1007,7 +1006,6 @@ ol li {
 .floo4 {
     position: fixed;
     animation: loop4 10s linear infinite;
-
     right: 80px;
     bottom: 80px;
     width: 200px;
