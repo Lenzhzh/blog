@@ -39,7 +39,12 @@ menu:
         theme: solid
         link: /tags
 
-
+#My menu
+    
+    Diary:
+        name: 114514
+        theme: solid
+        link: /diary
     Logs:
         name: gears
         theme: solid
