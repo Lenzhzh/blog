@@ -42,7 +42,7 @@ menu:
 #My menu
     
     Diary:
-        name: 114514
+        name: pen-to-square
         theme: solid
         link: /diary
     Logs:
