@@ -5,6 +5,7 @@ title: 更新日志
 
 #### update at 09:14,2023-7-11:
 1. create post: __5days_1__
+2. create post: __humath__
 
 #### update at 20:20,2023-6-27:
 1. create post: __Star Rail Count__
