@@ -1,5 +1,5 @@
 ---
-title: Flo_pic
+title: 数学！数学！还是™的数学！
 date: 
 tags: 
     - 数学
